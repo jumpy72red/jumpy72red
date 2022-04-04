@@ -1,4 +1,4 @@
 - 👋 Hi, I’m <a href="github.com/jumpy72red">jumpy72red</a>.
 - 👀 I’m interested in: computing, hardware and music.
 - 🌱 I’m currently learning: HTML, JS, Japanese and a myriad of instruments.
-- 📫 How to reach me: check <a href="github.com/jumpy72red/stjarnor-website/blob/main/README.md">README.md</a> in the <a href="github.com/jumpy72red/stjarnor-website">stjarnor-website</a> repository.
+- 📫 How to reach me: check <a href="github.com/Stjarnor-GH/stjarnor-website/blob/main/README.md">README.md</a> in the <a href="github.com/Stjarnor-GH/stjarnor-website">stjarnor-website</a> repository.
